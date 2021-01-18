@@ -1,6 +1,6 @@
 provider "aws" {
   version = "2.65.0"
-  region = "us-west-2"
+  region = "us-east-2"
 }
 
 data "aws_ami" "ubuntu" {
